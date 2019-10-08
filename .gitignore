@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+*.pth.tar
+*.ipynb
+*.npy
+*.pem
+advenv/
+output/
+data/models/
+data/pascal/VOCdevkit2/
+data/record/
+data/pascal/train3/
