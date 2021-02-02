@@ -1,6 +1,14 @@
 # An autonomous truck simulator for the game American Truck Simulator
 
+## Blog post
+
+See [accompanying Medium article](https://towardsdatascience.com/autonomous-truck-simulator-with-pytorch-3695dfc05555) for more information.
+
 ## Data
+
+![sample image for training during gameplay](https://github.com/jchaykow/trucksim/blob/master/images/trucksim1.png)
+
+![sample inference during autonomous gameplay](https://github.com/jchaykow/trucksim/blob/master/images/trucksim2.png)
 
 VOCdevkit2 2007:
 
