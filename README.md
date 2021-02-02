@@ -6,9 +6,9 @@ See [accompanying Medium article](https://towardsdatascience.com/autonomous-truc
 
 ## Data
 
-![sample image for training during gameplay](https://github.com/jchaykow/trucksim/blob/master/images/trucksim1.png)
+![sample image for training during gameplay](https://github.com/jchaykow/autonomous-trucksim/blob/master/images/trucksim1.png)
 
-![sample inference during autonomous gameplay](https://github.com/jchaykow/trucksim/blob/master/images/trucksim2.png)
+![sample inference during autonomous gameplay](https://github.com/jchaykow/autonomous-trucksim/blob/master/images/trucksim2.png)
 
 VOCdevkit2 2007:
 
