@@ -9,3 +9,4 @@ data/models/
 data/pascal/VOCdevkit2/
 data/record/
 data/pascal/train3/
+data/pascal/tmp/
